@@ -14,5 +14,5 @@ def sorted():
             print("List is not sorted ")
 
 
-
 sorted()
+# let's get started
