@@ -10,4 +10,4 @@ def average(l):
 
 
 l = [10, 20, 30, 40]
-average(l)
+average(l)  # update
